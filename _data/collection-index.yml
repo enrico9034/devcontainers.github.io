@@ -833,7 +833,7 @@
   contact: https://github.com/tcaky/devcontainer-features/issues
   repository: https://github.com/tcaky/devcontainer-features
   ociReference: ghcr.io/tcaky/devcontainer-features
-- name: Openstack CLI
+- name: Dev Container Features by enrico9034
   maintainer: enrico9034
   contact: https://github.com/enrico9034/devcontainer-features/issues
   repository: https://github.com/enrico9034/devcontainer-features
